@@ -1,0 +1,84 @@
+html
+body {background-color: purple;
+    margin: 0;
+    margin-top: 0;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    line-height: 50px;
+    background-color: none;
+}
+
+
+
+
+
+header li {
+    margin-left: 20px;
+}
+
+section {
+    height: 1100px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    text-align: center;
+    
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+{
+  box-sizing: border-box;
+}
+
+
+
+
+   
+
+
+
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: darkslategrey;
+ 
+}
+
+section h2 {
+    font-size: 2.5em;
+    color:whitesmoke;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+section h3 {
+    font-size: 1.5em;
+         margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 160px;
+    text-align: left;
+        
+}
+
+
+header a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+#about {
+    background-image:  url('https://raw.githubusercontent.com/Eoghan1156/ImageHost/master/elements%20background.png');
+}
